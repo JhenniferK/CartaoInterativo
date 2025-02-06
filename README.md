@@ -1,6 +1,6 @@
 # Cartão Interativo
 
-Vem vindo(a)! Este é um projeto de Cartão Interativo desenvolvido com HTML, CSS e JavaScript. O objetivo do projeto é criar um cartão moderno e dinâmico que reage a interações do usuário.
+Bem vindo(a)! Este é um projeto de Cartão Interativo desenvolvido com HTML, CSS e JavaScript. O objetivo do projeto é criar um cartão moderno e dinâmico que reage a interações do usuário.
 
 ## 📌 Tecnologias Utilizadas
 
